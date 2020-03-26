@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="common" />
         <module name="demoMain" />
-        <module name="shiro" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
